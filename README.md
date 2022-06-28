@@ -1,4 +1,4 @@
-## *Terça-tarde-formação*
+## *Terça feira a tarde-formação*
 ***link jogo pong no scratch***
 
 ✔ Instruções para o Jogo
